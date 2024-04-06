@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C.Voltbike</title>
+    <style>
+        body {
+            background-color: green;
+            color: white; /* Cambia el color del texto para que sea legible en el fondo verde */
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenido de la página -->
+    <h1>Bienvenido a C.Voltbike</h1>
+    <p>Este es un sitio web dedicado a las bicicletas eléctricas.</p>
+</body>
+</html>
