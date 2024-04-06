@@ -6,14 +6,34 @@
     <title>C.Voltbike</title>
     <style>
         body {
-            background-color: green;
-            color: white; /* Cambia el color del texto para que sea legible en el fondo verde */
+            background-color: #e0ffe0; /* Verde claro */
+            text-align: center; /* Centrar el contenido */
+            font-family: Arial, sans-serif; /* Fuente del texto */
+            margin: 0; /* Eliminar márgenes predeterminados */
+            padding: 20px; /* Añadir espacio alrededor del contenido */
+        }
+        h1 {
+            font-size: 48px; /* Tamaño grande */
+            color: black; /* Color negro */
+        }
+        p {
+            font-size: 18px; /* Tamaño del texto */
+            line-height: 1.6; /* Espaciado entre líneas */
+            margin-top: 20px; /* Espacio superior */
+        }
+        img {
+            max-width: 100%; /* Asegura que la imagen no se extienda más allá del ancho de la pantalla */
+            margin-top: 20px; /* Espacio superior */
         }
     </style>
 </head>
 <body>
     <!-- Contenido de la página -->
-    <h1>Bienvenido a C.Voltbike</h1>
-    <p>Este es un sitio web dedicado a las bicicletas eléctricas.</p>
+    <h1>C.Voltbike</h1>
+    <p>Bienvenido a C.Voltbike, el lugar para bicicletas eléctricas.</p>
+    <p>Las bicicletas eléctricas están transformando la forma en que nos movemos en las ciudades. Con la preocupación creciente por el medio ambiente y la congestión del tráfico, las bicicletas eléctricas ofrecen una solución sostenible y eficiente para el transporte urbano. Permiten a las personas llegar a sus destinos rápidamente sin sacrificar comodidad ni comprometer el medio ambiente.</p>
+    <p>Además de ser una opción ecológica, las bicicletas eléctricas también promueven un estilo de vida activo y saludable. Alentando a las personas a ejercitarse mientras se desplazan, ayudan a mejorar la salud cardiovascular y a reducir el sedentarismo, lo que a su vez contribuye a una población más saludable y feliz.</p>
+    <p>En resumen, las bicicletas eléctricas no solo son una alternativa de transporte conveniente y amigable con el medio ambiente, sino que también promueven un estilo de vida más activo y saludable. Con su creciente popularidad, están desempeñando un papel importante en la construcción de ciudades más habitables y sostenibles para las generaciones futuras.</p>
+    <img src="ruta_de_la_imagen.jpg" alt="Bicicleta eléctrica">
 </body>
 </html>
